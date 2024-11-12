@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 🙋🏽‍♂️
+### I am Manideep Pranav Madala. 
+- 🏫 I'm currently enrolled in MS, General Engineering at San Jose State University.
+- 📖 I'm currenlty learning React.js and also improving my exisiting skills(Java).
+- ⚙️ I'm currently working on an academic project that will help develop my skills in Full Stack development on cloud.
 
 <!--
 **manideeppranavm/manideeppranavm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
